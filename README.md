@@ -9,7 +9,8 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=westng&show_icons=true&theme=radical)
 
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/westng/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
+You are my ![Visitor Count](https://profile-counter.glitch.me/westng/count.svg) visitor,Thank You! 😘 😘
+
 
 ### My Contributions
 
