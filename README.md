@@ -1,17 +1,16 @@
-<h1 align="center">Hi 👋, I'm westng</h1>
-<h6 align="center">你好呀 👋</h6>
+### Hi there 👋, I'm westng.
 
-<p align="center">
-  <div style="display: flex; justify-content: space-between; width: 100%; max-width: 800px; margin: 0 auto;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=westng&theme=radical" style="width: 48%;" />
-    <img src="https://github-readme-stats.vercel.app/api?username=westng&show_icons=true&theme=radical" style="width: 48%;" />
-  </div>
-</p>
+- 🔭 I’m currently working on something cool.
+- 🌱 I’m currently learning Everything I like.
+- 💬 Ask me about anything related to Vue/Python/Php.
+- 📫 How to reach me: 457395070@qq.com
 
-<hr style="margin: 20px 0;" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=westng&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=westng&show_icons=true&theme=radical)
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/westng" style="width: 100%;" />
-</p>
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=westng&theme=dracula)
+You are my ![Visitor Count](https://profile-counter.glitch.me/westng/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
+
+### My Contributions
+
+![](https://ghchart.rshah.org/westng)
