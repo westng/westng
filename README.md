@@ -11,7 +11,3 @@
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/westng/count.svg) visitor,Thank You! 😘 😘
 
-
-### My Contributions
-
-![](https://ghchart.rshah.org/westng)
